@@ -1,0 +1,554 @@
+{
+        "year": "2023",
+        "tracks": [
+                {
+                        "id": "1",
+                        "name": "Auditoriet",
+                        "bg": "#ccc",
+                        "color": "#333",
+                        "guidance": "0. etg"
+                },
+                {
+                        "id": "2",
+                        "name": "Undervisningsrommet",
+                        "bg": "#ccc",
+                        "color": "#333",
+                        "guidance": "1. etg"
+                },
+                {
+                        "id": "3",
+                        "name": "Bulderrommet",
+                        "bg": "#ccc",
+                        "color": "#333",
+                        "guidance": "4. etg"
+                },
+                {
+                        "id": "4",
+                        "name": "Styrerommet",
+                        "bg": "#ccc",
+                        "color": "#333",
+                        "guidance": "7. etg"
+                }
+        ],
+        "slots": [
+                {
+                        "id": "0830",
+                        "label": "08:30"
+                },
+                {
+                        "id": "1100",
+                        "label": "11:00"
+                },
+                {
+                        "id": "1130",
+                        "label": "11:30"
+                },
+                {
+                        "id": "1205",
+                        "label": "12:05"
+                },
+                {
+                        "id": "1220",
+                        "label": "12:20"
+                },
+                {
+                        "id": "1235",
+                        "label": "12:35"
+                },
+                {
+                        "id": "1250",
+                        "label": "12:50"
+                },
+                {
+                        "id": "1305",
+                        "label": "13:05"
+                },
+                {
+                        "id": "1320",
+                        "label": "13:20"
+                },
+                {
+                        "id": "1335",
+                        "label": "13:35"
+                },
+                {
+                        "id": "1405",
+                        "label": "14:05"
+                },
+                {
+                        "id": "1420",
+                        "label": "14:20"
+                },
+                {
+                        "id": "1435",
+                        "label": "14:35"
+                },
+                {
+                        "id": "1450",
+                        "label": "14:50"
+                },
+                {
+                        "id": "1505",
+                        "label": "15:05"
+                },
+                {
+                        "id": "1520",
+                        "label": "15:20"
+                },
+                {
+                        "id": "1535",
+                        "label": "15:35"
+                },
+                {
+                        "id": "1605",
+                        "label": "16:05"
+                },
+                {
+                        "id": "1700",
+                        "label": "17:00"
+                }
+        ],
+        "events": [
+                {
+                        "title": "Introduksjon til sikkerhetstesting",
+                        "description":"Workshoppen for utviklere! Den består av en praktisk introduksjon rundt angrepsteknikker og hvordan angriperne velger målet sitt, etterfulgt av en gamefied labøvelse hvor deltakerne får bruke reelle angrepsteknikker for å hacke seg inn i sårbare systemer.",
+                        "speaker": "Erik Vetle Larsen:",
+                        "slotId": "0830",
+                        "trackId": "1",
+                        "type": "workshop",
+                        "size": "2"
+                },
+                {
+                        "title": "Pause",
+                        "description": "",
+                        "speaker": "",
+                        "slotId": "1100",
+                        "trackId": "",
+                        "type": "30 minutter",
+                        "size": "1"
+                },
+                {
+                        "title": "Growth mindset og Innovasjonsmulighetene",
+                        "description":"Ørjan skal snakke om Growth Mindset og hvordan man kan jobbe med lønnsom innovasjon og vekst. Han vil komme med konkrete eksempler fra Schibsted, Sbanken og Cutters og hvordan kultur, organisering og innstilling er avgjørende for om man lykkes eller feiler med innovasjon.",
+                        "speaker":"Ørjan Johnsen",
+                        "slotId": "1130",
+                        "trackId": "1",
+                        "type": "Keynote",
+                        "size": "1"
+                },
+                {
+                        "title": "Tinder for bank: Hvordan (og hvorfor!) fortelle kunden at vi ikke er en match?",
+                        "description":"Med ekstreme vekstmål og beinhard konkurranse om kundene, hvorfor i all verden valgte vi å lage en markedsføringskampanje der poenget var å fortelle en god del norske bankkunder at de IKKE burde bli kunder i Bulder? Og hvordan kunne dette ende opp som en prisvinnende kampanje?",
+                        "speaker": "Benedicte Tvedt Pedersen",
+                        "slotId": "1205",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Data mesh og Devops",
+                        "description":"De fleste virksomheter sliter med å ta ut det virkelige potensialet i å utnytte data til forbedring av kunde-/brukeropplevelse, effektivitet og lønnsomhet. Grunnen er at riggen de har for forvaltning og utnyttelse av data ikke skalerer. Data mesh er et sosio-teknologisk paradigmeskifte som tar sikte på å løse denne utfordringen ved hjelp av distribuert dataeierskap. Hva handler egentlig Data Mesh om, og hvorfor er det viktig for deg? Denne lyntalen handler om hvordan ulike team kan hjelpe seg selv og resten av organisasjonen å lære raskere fra data (gjennom både maskinlæring og menneskelig læring), ved å ta eierskap til data i egen verdikjede.",
+                        "speaker": "Kirsti Loe",
+                        "slotId": "1205",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Er det mulig å prioritere effektivt på tvers av 20 utviklingsteam?",
+                        "description": "",
+                        "speaker":"Ørjan Karlsen",
+                        "slotId": "1205",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "ChatGPT og deg",
+                        "description":"Ikke la deg lure, forstå ChatGPT så du kan bruke den riktig!",
+                        "speaker": "Odin Herjan",
+                        "slotId": "1205",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Livet blir cirka seksti milliarder ganger morsommere når man fokuserer på konvertering",
+                        "description":"Hvorfor det er viktig å jobbe med konverteringsoptimalisering, og hva man kan oppnå med riktig fokus",
+                        "speaker": "Christian Kalland",
+                        "slotId": "1220",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "DevTools - 7 triks for bedre debugging",
+                        "description":"DevTools er en essensiell del av frontendutvikleres verktøykasse, og når man bruker de riktig sparer man mye tid og frustrasjon i debugging. Denne lyntalen presenterer 7 triks alle utviklere bør kunne, men mange ikke kjenner til.",
+                        "speaker": "Thomas Hansen",
+                        "slotId": "1220",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Erfaringer fra bruk av estimering og burndown i Biometri-leveranse for BM-appen",
+                        "description":"Har estimering og burndown hjulpet oss i arbeidet med enda en stor PRIO-leveranse? Hva lærte vi? Hva ga det oss? Hva vil vi gjøre annerledes neste gang?",
+                        "speaker": "Stian Danielsen",
+                        "slotId": "1220",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Student i banken",
+                        "description":"Jeg, Rune Mæstad og Anders Buanes skal snakke om hvordan det har vært å begynne i banken (sommerprosjektet) og hvordan det er å kombinere jobben med studier.",
+                        "speaker":"Anders Aarsæther",
+                        "slotId": "1220",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Jobb smartere, ikke hardere: Hvordan AI hjelper meg i praksis",
+                        "description":"Gjennom eksempler og praktiske tips vil jeg vise hvordan AI kan være en verdifull medarbeider og forbedre vår arbeidseffektivitet",
+                        "speaker": "Charles Aleksander Ravndal",
+                        "slotId": "1235",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Tiden for Temporal i JS er over oss! Hvorfor? Hva? Og hva har vi brukt før?",
+                        "description":"'Temporal proposal' for ECMAScript er et av de mest ambisiøse prosjektene, på tvers av programmeringsspråk, for å implementere/forbedre dato- og tidsstyring. Den er nesten ute av 'Proposal' stadiene og vi har polyfills å leke med før nettlesere og andre motorer avduker sine egne implementeringer. Men hva er Temporal, hva prøver det å løse, og hvordan føles det å bruke det i prosjektene dine?",
+                        "speaker": "Marcin Mateusz Hanc",
+                        "slotId": "1235",
+                        "trackId": "2",
+                        "type": "Utvikler - Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Si meg, eier du ikke begrep(ene) om personvern?",
+                        "description":"Personvern er viktig på mange måter. Men det er mange begreper i bruk, og ikke alltid like enkelt å finne meningen bak, eller se sammenhengen i begrepsbruken. I denne lyntalen tar vi opp de viktigste begrepene og prøver å sette dem i en sammenheng.",
+                        "speaker": "Jan-Erik Stue",
+                        "slotId": "1235",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Monday commitments and Friday wins",
+                        "description":"Hvordan kan croisanter hver fredag skape ett vinnerlag? Bli kjent med den enkle metoden som sikrer at teamet har fokus på de riktige oppgavene, og som styrker følelsen av å skape resultater sammen.",
+                        "speaker": "Marthe Rekdalsbakken",
+                        "slotId": "1235",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "UX: En tid for alt",
+                        "description":"Om timing i apper og nettsteder. Ofte bommes det på når det er lurt å introdusere nye ideer, når brukeren er i rett modus for dine intensjoner som designer eller forretningsdriver. La oss se hvordan vi kan treffe bedre.",
+                        "speaker": "Are Bu Vindenes",
+                        "slotId": "1250",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Smart kø til DWH 101",
+                        "description":"Det siste året har bruken av Azure Service Bus økt kraftig i banken. Hva gjør DWH med meldingene (Json) og hvordan kan du og ditt team bidra til å gjøre jobben lettere.",
+                        "speaker": "Kristine Opheim",
+                        "slotId": "1250",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "En uke uten Bulder kortbestilling og hvorfor ingen merket noe!",
+                        "description":"Hvordan 400 Bulder kunder endte opp uten bankkort men heldigvis ikke merket det. En kort fortelling om hvordan dårlig feilhåndtering sørget for at korbestillingen feilet, men ingen fikk beskjed om feilen..",
+                        "speaker": "Andreas Thuen",
+                        "slotId": "1250",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Kan vi avdekke mer forsikringssvik ved å dele data mellom selskap?",
+                        "description":"I regi Finance Innovation er det gjennomført en pilot der vi har sett på hvordan man kan dele data mellom Frende, Tryg of Fremtind. I dette inlegget vil jeg dele erfaringer fra dette arbeidet",
+                        "speaker": "Roald Heie",
+                        "slotId": "1250",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Automagisk kode direkte fra Figma",
+                        "description":"Mindre kode og mer design. Hvordan gå automatisk fra design i Figma til å se resultatet i en app",
+                        "speaker": "David Olsson",
+                        "slotId": "1305",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Request changes - Hva utgjør en god code review?",
+                        "description":"I dette innlegget deler jeg litt tanker og erfaringer rundt hva (jeg mener / tror) utgjør en god code review. Hva handler egentlig en code review om? Hva kan man gjøre for å øke kvaliteten på en code review? Kom å hør hva jeg mener / tror :)",
+                        "speaker": "Christian Wallervand",
+                        "slotId": "1305",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Bærekraftslinkede lån - hva er det?",
+                        "description":"Banken skal bidra til grønn omstilling - og alle bankens divisjoner må bidra. Anita Berg fra Kundeinnsikt og Linn Gjesdal fra Bærekraft vil gi en innføring i hvordan banken går fra strategi til implementering.",
+                        "speaker": "Linn Gjesdal",
+                        "slotId": "1305",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Visste du dette om de unge ... ?",
+                        "description":"Forstå de unge og deres opplevelse av reisen til deres førstehjem",
+                        "speaker": "Vibeke Storvik",
+                        "slotId": "1305",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Pause",
+                        "description": "",
+                        "speaker": "",
+                        "slotId": "1320",
+                        "trackId": "",
+                        "type": "15 minutter",
+                        "size": ""
+                },
+                {
+                        "title": "Den vanlige IT-avdelingen er allerede i sin Kodak-moment",
+                        "description":"Vi i IT hever oss over fabrikker og samlebåndsarbeid, ironisk nok. Fabrikker har i flere tiår vært mer effektive og endringsdyktige enn de fleste IT-avdelinger, og dessverre er de fortsatt det. Den eneste måten å redde oss selv på er å lære av fabrikker, laboratorier, militære og andre fleksible organisasjoner.",
+                        "speaker": "David Mellum",
+                        "slotId": "1335",
+                        "trackId": "1",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title": "6 Wrecked Approaches to Automated Integration Testing",
+                        "description": "Here I stand. Always preaching to not only automate unit tests but also high-level tests. But after a year of trying I ended up with 20 automated test cases which would take 5 minutes to test manually. And every 2nd night they make the build red. The other team mates rolling their eyes. Yet another sporadic test setup failure. Have you been there? I might have some tips for you :)",
+                        "speaker": "Rudolf Brunner",
+                        "slotId": "1335",
+                        "trackId": "2",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title": "Tips, tricks og snacks rundt PIM",
+                        "description":"Erfaringer høstet og ting som kanskje kan gjøre det mer effektivt når du må aktivere en rolle?",
+                        "speaker": "Olav Tvedt",
+                        "slotId": "1335",
+                        "trackId": "3",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title":"Algoritmebaserte forretningsavgjørelser",
+                        "description":"Maskinlæring kan brukes til å utnytte den ofte enorme datamengden selskap besitter, til å beregne risiko og sannsynligheter. Dette kan igjen brukes til å ta automatiserte forretningsavgjørelser. Dette foredraget vil vise noen reelle caser hvor algoritmene tar avgjørelser, samt vise noen potensielle caser. Foredraget vil være ikke-teknisk og krever ingen kjennskap til verken maskinlæring eller avgjørelser ;)",
+                        "speaker":"Anders Dræge",
+                        "slotId": "1335",
+                        "trackId": "4",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title": "Bilder med AI",
+                        "description":"Ein demonstasjon av kva ein kan lage med dagens åpne AI tekst-til-bilete modeller og litt datakraft",
+                        "speaker": "Alexander Arnesen",
+                        "slotId": "1405",
+                        "trackId": "1",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title": "Platform Engineering",
+                        "description":"Hva er platform engineering? Hvor kommer det fra og hvorfor bør man implementere det?",
+                        "speaker": "Anders Runningen",
+                        "slotId": "1405",
+                        "trackId": "2",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title": "Fra C# til F# i banking services",
+                        "description":"Funksjonell programmering blir ofte regnet som et godt alternativ dersom du vil ha lettlest kode med færre bugs. Terskelen for å gå over til feks F# har ofte vært knyttet til usikkerhet rundt kompleksitet og manglende kunnskap. Vi har i høst laget et API basert på F# og ønsker å dele erfaringer med resten av organisasjonen.",
+                        "speaker":"Øystein Haga",
+                        "slotId": "1405",
+                        "trackId": "3",
+                        "type": "30 minutter",
+                        "size": ""
+                },
+                {
+                        "title":"Hvordan kan maskinlæring og tradisjonell statistikk kombineres for å lage mer spissede modeller?",
+                        "description":"Innlegget tar for seg hvordan man kan bruke en algoritme basert på rekursiv modellbasert partisjonering til å lage mer spissede modeller og samtidig beholde en del av fordelene forbundet med tradisjonell statistikk.",
+                        "speaker": "Erling Risa",
+                        "slotId": "1405",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"5 grunner til at kapital i bank er gøy",
+                        "description":"Egenkapitalavkastning, kapital og ROE kan være diffuse begreper, og de er ikke alltid lett å koble til det vi gjør i hverdagen. I innlegget forteller jeg om hvorfor kapital er gøy, og trekker frem eksempler på hvordan forretningsverdi kan skapes ved fokus på kapital i grensesnittet mellom IT-utvikling, innsiktsarbeid og domenekunnskap.",
+                        "speaker": "Erlend Wallestad",
+                        "slotId": "1420",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Pause",
+                        "description": "",
+                        "speaker": "",
+                        "slotId": "1435",
+                        "trackId": "",
+                        "type": "15 minutter",
+                        "size": ""
+                },
+                {
+                        "title":"Størst endring fra tradisjonell bank til utfordrer",
+                        "description":"Fortelle hva de største endringene er med å jobbe i sparebanken vest kontra bulder ",
+                        "speaker":"Charlotte Høiesen",
+                        "slotId": "1450",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Introduksjon til GraphQL",
+                        "description":"Kort introduksjon til GraphQL. Her går vi gjennom hvordan man kan sette opp et api på toppen av en database og spørre mot dataene.",
+                        "speaker": "Christoffer Osland",
+                        "slotId": "1450",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Happy user - better code",
+                        "description":"Bedre løsninger fører til mer fornøye brukere, men i kontinuering utvikling så har brukeropplevelse og engasjement effekt på løsningene vi lager. Snakke om den feedbacken og hva som har synlig og usynlig effekt på den",
+                        "speaker": "Rosa Dogg Jonsdottir",
+                        "slotId": "1450",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Action API",
+                        "description":"Hvordan benytte Kunstig Intelligens til å predikere hvilke forsikringsprodukter kunden trenger ",
+                        "speaker":"Ørjan Skjold",
+                        "slotId": "1450",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Om Finance Innovation",
+                        "description":"Hva er finansklyngen og hvilke samarbeidsmuligheter finnes det på tvers av bedriftene?",
+                        "speaker": "Rea Parashar og Bent Gjendem",
+                        "slotId": "1505",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Hvordan vi i team KO har endret release strategi",
+                        "description":"Jeg vil fortelle hvordan vi har endret release strategi ved å bruke feature flagg i LaunchDarkly og hvordan vi tester. Det hjelper oss å minimere risiko ved prodsetting, gir oss flexibilitet til å åpne funksjoner for et spesifikt segment, og ikke minst fjerner release stress for teamet.",
+                        "speaker": "Iryna Vasylenko",
+                        "slotId": "1505",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "WebAssembly on the server - the future of cloud computing?",
+                        "description": "WebAssembly (WASM) is a binary instruction format designed to run in the browser, bringing near-native performance to the web. The advent of server-side support for WASM (WebAssembly System Interface, WASI) makes it possible to run WASM code outside the browser, on any platform. So why should you as a developer care about WASM+WASI, how can you play around with it today, and how might it affect the way we build and run code in the cloud in the future? Is WASM just Java reinvented? Come to my talk to find out.",
+                        "speaker":"Erlend Røsjø",
+                        "slotId": "1505",
+                        "trackId": "3",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title":"Så enkelt er det å lage din egen webapp (med Vercel)",
+                        "description":"Hvor starter man for å lage en webapplikasjon i 2023? Det finnes utallige måter å gjøre dette på i dag. Denne sesjonen gir et kjapt innblikk i hvordan dette kan gjøres med Vercel - inkludert en demo av kul funksjonalitet som 'templates', 'preview deployments med kommentarer' og 'analytics'.",
+                        "speaker": "Mats Tyldum",
+                        "slotId": "1505",
+                        "trackId": "4",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "The Power of Us",
+                        "description":"Antikk filosofi i hypermoderne industri: Kva kan VI lære av Google sitt Prosjekt Aristoteles?",
+                        "speaker": "Siren Sundland",
+                        "slotId": "1520",
+                        "trackId": "1",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Playing with Playwright",
+                        "description":"Automatisk testing med playwright, hvorfor kastet jeg robot framework med selenium på dynga",
+                        "speaker": "Sven Erik Kro",
+                        "slotId": "1520",
+                        "trackId": "2",
+                        "type": "Lyntale",
+                        "size": ""
+                },
+                {
+                        "title": "Design Doing",
+                        "description":"Hva skal til for å lykkes med innovasjonsarbeid? Gode intensjoner, design thinking og forankring er ikke nok. Dette interne fokuset fører ofte til innovasjonsteater, når det vi egentlig trenger er ekte, handlekraftig innovasjon som gir mening for kundene våre. Designkompetanse, modig lederskap og trygge kulturer er sentrale for å kunne for å danse i takt med dagens marked - og for å sikre oss en plass i fremtiden.",
+                        "speaker":"Guro Røberg",
+                        "slotId": "1535",
+                        "trackId": "1",
+                        "type": "Keynote",
+                        "size": ""
+                },
+                {
+                        "title":"Hvordan få organisasjonen til å tenke mer datadrevet? ",
+                        "description": "Roald Heie (Frende), Erling Risa (SPV), Kirsti Loe (SPV).",
+                        "speaker": "Diskusjonsforum",
+                        "slotId": "1605",
+                        "trackId": "",
+                        "type": "Open Space",
+                        "size": ""
+                },
+                {
+                        "title": "Prosesser",
+                        "description":"David Mellum (Frende), Stian Danielsen (SPV), Ørjan Karlsen (SPV).",
+                        "speaker": "Diskusjonsforum",
+                        "slotId": "1605",
+                        "trackId": "",
+                        "type": "Open Space",
+                        "size": ""
+                },
+                {
+                        "title":"Når UX tar kundeansvaret i forretningsuviklingen",
+                        "description": "Are Bu Vindenes (SPV), Christian Kalland (Bulder), Rosa Dogg Jonsdottir (Frende).",
+                        "speaker": "Diskusjonsforum",
+                        "slotId": "1605",
+                        "trackId": "",
+                        "type": "Open Space",
+                        "size": ""
+                },
+                {
+                        "title": "Mageplask",
+                        "description":"MagePlask er det sosiale eventet som skjer etter PLASK. Her inviterer vi til mat og drikke, samt gode diskusjoner av dagens læring. Kanskje det til og med dukker opp et lokalt ølbryggeri med smaksprøver og underholdning? ",
+                        "speaker": "",
+                        "slotId": "1700",
+                        "trackId": "",
+                        "type": "Sosialt",
+                        "size": ""
+                }
+        ]
+}
